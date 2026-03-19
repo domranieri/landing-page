@@ -22,9 +22,6 @@ icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/domranieri"
 
-[params]
-  favicon = "/favicon.ico"
-
   [[menu.main]]
     name = "About"
     url = "/about/"
