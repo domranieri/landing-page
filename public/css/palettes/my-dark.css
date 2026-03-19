@@ -1,0 +1,54 @@
+/* Base16 Dark Purple + Green + Cyan Palette */
+:root {
+  --base00: #1a0f1a; /* dark purple-tinged background */
+  --base01: #221522; /* alternate content background */
+  --base02: #2b1b2b; /* in-text backgrounds (<pre>, <code>) */
+  --base03: #555555; /* muted text / markers */
+  --base04: #888888; /* sidebar / aside text */
+  --base05: #cccccc; /* main content text */
+  --base06: #eeeeee; /* light text */
+  --base07: #ffffff; /* lightest text */
+  --base08: #006400; /* red accents → now dark green */
+  --base09: #228B22; /* orange accents → greenish */
+  --base0A: #32CD32; /* yellow/highlights → bright green */
+  --base0B: #006400; /* primary accent / logo → dark green */
+  --base0C: #00CED1; /* cyan / active links */
+  --base0D: #00FFFF; /* links / highlights → cyan */
+  --base0E: #006400; /* magenta / extra accents → dark green */
+  --base0F: #5f5f87; /* brown / misc */
+}
+
+/* convenience classes for content */
+.base00 { color: var(--base00); }
+.base01 { color: var(--base01); }
+.base02 { color: var(--base02); }
+.base03 { color: var(--base03); }
+.base04 { color: var(--base04); }
+.base05 { color: var(--base05); }
+.base06 { color: var(--base06); }
+.base07 { color: var(--base07); }
+.base08 { color: var(--base08); }
+.base09 { color: var(--base09); }
+.base0A { color: var(--base0A); }
+.base0B { color: var(--base0B); }
+.base0C { color: var(--base0C); }
+.base0D { color: var(--base0D); }
+.base0E { color: var(--base0E); }
+.base0F { color: var(--base0F); }
+
+.bg-base00 { background-color: var(--base00); }
+.bg-base01 { background-color: var(--base01); }
+.bg-base02 { background-color: var(--base02); }
+.bg-base03 { background-color: var(--base03); }
+.bg-base04 { background-color: var(--base04); }
+.bg-base05 { background-color: var(--base05); }
+.bg-base06 { background-color: var(--base06); }
+.bg-base07 { background-color: var(--base07); }
+.bg-base08 { background-color: var(--base08); }
+.bg-base09 { background-color: var(--base09); }
+.bg-base0A { background-color: var(--base0A); }
+.bg-base0B { background-color: var(--base0B); }
+.bg-base0C { background-color: var(--base0C); }
+.bg-base0D { background-color: var(--base0D); }
+.bg-base0E { background-color: var(--base0E); }
+.bg-base0F { background-color: var(--base0F); }
