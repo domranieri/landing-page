@@ -11,6 +11,7 @@ palette = "tokyo-night-dark"
 
 [params]
   subtitle = "absolutely bonkers"
+  favicon = "/favicon.ico"
 
 [params.about]
 title = "Welcome"
